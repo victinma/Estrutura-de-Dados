@@ -1,3 +1,5 @@
+package BinaryTree;
+
    //testando elementos da arvore pre-ordem, em-ordem, pos-ordem, onde 15 é a raiz
    //e 10 o nó da direita
 public class Teste {
